@@ -1,0 +1,103 @@
+baseURL = "http://www.sriranga.me"
+title = "James Janardhan"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+# Enable Disqus comments
+# disqusShortname = "yourdiscussshortname"
+
+[params]
+author = "James J."
+description = "Jamie's ramblings"
+#keywords = ""
+info = ["photographer", "Squirrels"]
+avatarURL = "images/avatar.jpg"
+#gravatar = "john.doe@example.com"
+dateFormat = "January 2, 2006"
+since = 2023
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+
+# Custom JS
+customJS = []
+
+# Custom remote JS files
+customRemoteJS = []
+
+# If you want to implement a Content-Security-Policy, add this section
+# [params.csp]
+# childsrc = ["'self'"]
+# fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
+# formaction = ["'self'"]
+# framesrc = ["'self'", "https://www.youtube.com"]
+# imgsrc = ["'self'"]
+# objectsrc = ["'none'"]
+# stylesrc = [
+#   "'self'",
+#   "'unsafe-inline'",
+#   "https://fonts.googleapis.com/",
+#   "https://cdn.jsdelivr.net/",
+# ]
+# scriptsrc = [
+#   "'self'",
+#   "'unsafe-inline'",
+#   "https://www.google-analytics.com",
+#   "https://cdn.jsdelivr.net/",
+# ]
+# prefetchsrc = ["'self'"]
+# # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
+# connectsrc = ["'self'", "https://www.google-analytics.com"]
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/jamesjanardhan"
+
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/james-janardhan-703470293"
+
+
+[languages.en]
+languageName = ":uk:"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 4
+url = "contact/"
+
+
