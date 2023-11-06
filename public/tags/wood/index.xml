@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wood on Sriranga</title>
+    <link>http://www.sriranga.me/tags/wood/</link>
+    <description>Recent content in wood on Sriranga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.sriranga.me/tags/wood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Woodworking Gallery Sample</title>
+      <link>http://www.sriranga.me/posts1/photos/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sriranga.me/posts1/photos/</guid>
+      <description>These are some of the artefacts that I have carved
+I&amp;rsquo;m Batman
+The Katana
+The viking ship</description>
+    </item>
+    
+  </channel>
+</rss>

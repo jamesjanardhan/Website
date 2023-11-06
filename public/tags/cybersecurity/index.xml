@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on Sriranga</title>
+    <link>http://www.sriranga.me/tags/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on Sriranga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.sriranga.me/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Threats haven&#39;t changed, the flavors of threat have.</title>
+      <link>http://www.sriranga.me/posts/threats-havent-changed/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sriranga.me/posts/threats-havent-changed/</guid>
+      <description>The cyber world has changed a lot in the past decade. Almost everything has been moved to the cloud. The days of on premise data centers are gone. The amount of deploys a company makes has also increased drastically. Gone are the days of 2 to 3 deploys a year. Companies deploy their software 3 to 4 times a hour on average these days. With such drastic changes, one might think that the amount of threats have gone up, but that is not the case.</description>
+    </item>
+    
+  </channel>
+</rss>
