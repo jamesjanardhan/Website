@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on James Janardhan</title>
-    <link>http://www.jamesjanardhan.github.io/authors/</link>
+    <link>https://jamesjanardhan.github.io/Website/authors/</link>
     <description>Recent content in Authors on James Janardhan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.jamesjanardhan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://jamesjanardhan.github.io/Website/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
