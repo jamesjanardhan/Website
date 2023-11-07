@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Sriranga</title>
-    <link>http://www.sriranga.me/series/</link>
-    <description>Recent content in Series on Sriranga</description>
+    <title>Series on James Janardhan</title>
+    <link>http://www.jamesjanardhan.github.io/series/</link>
+    <description>Recent content in Series on James Janardhan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.sriranga.me/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://www.jamesjanardhan.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

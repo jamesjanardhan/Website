@@ -1,69 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sriranga</title>
-    <link>http://www.sriranga.me/</link>
-    <description>Recent content on Sriranga</description>
+    <title>James Janardhan</title>
+    <link>http://www.jamesjanardhan.github.io/</link>
+    <description>Recent content on James Janardhan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 31 Jan 2023 10:59:48 -0700</lastBuildDate><atom:link href="http://www.sriranga.me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://www.jamesjanardhan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://www.sriranga.me/about/</link>
+      <link>http://www.jamesjanardhan.github.io/about/</link>
       <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sriranga.me/about/</guid>
-      <description>My name is Sriranga and I am a graduate student studying cybersecurity at the University of Colorado. I am a problem-solver at heart and love the challenge of tackling puzzles and finding solutions.
-I am passionate about staying up-to-date with the latest developments in the field of cybersecurity and am always looking for ways to improve my skills and knowledge. Currently, I am actively seeking new grad roles starting from summer 2024.</description>
-    </item>
-    
-    <item>
-      <title>6 tips to stay safe online</title>
-      <link>http://www.sriranga.me/posts/stay_safe_online/</link>
-      <pubDate>Tue, 31 Jan 2023 10:59:48 -0700</pubDate>
-      
-      <guid>http://www.sriranga.me/posts/stay_safe_online/</guid>
-      <description>You might be a lawyer, a teacher, a cybersecurity analyst, but you know what all of us definitely are? Users of the Internet! In today’s digital age, we rely heavily on the internet for our daily tasks. But with the convenience of technology, comes the risk of cyber threats such as hacking, phishing scams, and identity thefts. The good news is there are steps that you can take to protect yourself and your information from the malicious people.</description>
-    </item>
-    
-    <item>
-      <title>Passwords</title>
-      <link>http://www.sriranga.me/posts/passwords/</link>
-      <pubDate>Sun, 15 Jan 2023 09:33:37 -0700</pubDate>
-      
-      <guid>http://www.sriranga.me/posts/passwords/</guid>
-      <description>Like most things in the world of cybersecurity, the convenience of a password and the security of a password are inversely proportional. While having a short password is convenient, it isn&amp;rsquo;t secure.
-But why is that so?
-Passwords are the first line of defense when it comes to protecting sensitive information. A &amp;ldquo;weak&amp;rdquo; password can be cracked easily by threat actors, giving them access to information they shouldn&amp;rsquo;t have had access to.</description>
-    </item>
-    
-    <item>
-      <title>Gallery</title>
-      <link>http://www.sriranga.me/photos/</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.sriranga.me/photos/</guid>
-      <description>Welcome to my world of creativity and craftsmanship! I have always found immense joy and fulfillment in bringing my imagination to life through various forms of artistry. Whether it&amp;rsquo;s the timeless art of woodcarving or the futuristic wonders of 3D printing, I have discovered a profound sense of accomplishment in building things: Batman Cart Horse Katana Nefertiti Phone standSpidey Unicorn Viking shipHere&amp;rsquo;s a collection of moments frozen in time, from stunning landscapes to charming photos of squirrels: Chipmunk Fall FoliageFlatirons Flatirons at SunriseFlowerMountains Squirrel Squirrel 2 SunTulips Waterfalls </description>
+      <guid>http://www.jamesjanardhan.github.io/about/</guid>
+      <description>My name is James, I love to take photos of squirrels and other cute animals. I am passionate about Squirrels.
+In my free time, I enjoy exploring my creative side through hobbies such as photography and travelling.
+PS, A side note I do not exist, and my photo was taken from &amp;ldquo;thispersondoesnotexist.com&amp;rdquo;.
+Oh and My password is somewhere on this site.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.sriranga.me/contact/</link>
+      <link>http://www.jamesjanardhan.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sriranga.me/contact/</guid>
-      <description>Email: sriranga.kalkunteRamaswamy@colorado.edu
-LinkedIn: https://www.linkedin.com/in/sriranga-kr/</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://www.sriranga.me/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.sriranga.me/projects/</guid>
-      <description>Some of my projects:
-Penetration testing with Damn Vulnerable Web Application: A Penetration Testing project was carried out on Damn Vulnerable Web Application (DVWA) that was set up on a virtual machine using VirtualBox. Kali Linux to exploit the vulnerabilities found in the web application. Vulnerabilities were identified by utilizing vulnerability scanners such as Skipfish and Nessus. The aim of the project is to improve security by identifying and exploiting vulnerabilities in web applications.</description>
+      <guid>http://www.jamesjanardhan.github.io/contact/</guid>
+      <description>Email: james.janardhan1@gmail.com
+LinkedIn: https://www.linkedin.com/in/james-janardhan-703470293</description>
     </item>
     
   </channel>
