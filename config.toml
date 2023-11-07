@@ -1,4 +1,4 @@
-baseURL = "http://www.sriranga.me"
+baseURL = "http://www.jamesjanardhan.github.io"
 title = "James Janardhan"
 theme = "hugo-coder"
 languageCode = "en"
@@ -16,7 +16,7 @@ author = "James J."
 description = "Jamie's ramblings"
 #keywords = ""
 info = ["photographer", "Squirrels"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/profile.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2023
