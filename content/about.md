@@ -11,5 +11,5 @@ In my free time, I enjoy exploring my creative side through hobbies such as phot
 
 PS, A side note I do not exist, and my photo was taken from "thispersondoesnotexist.com".
 
-Oh and My password is somewhere on this site.
+Oh and My password is somewhere on my github.
 
