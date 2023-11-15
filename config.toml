@@ -16,7 +16,7 @@ author = "James J."
 description = "Jamie's ramblings"
 #keywords = ""
 info = ["photographer", "Squirrels"]
-avatarURL = "images/profile.png"
+avatarURL = "images/profile.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2023
@@ -98,6 +98,6 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 4
-url = "contact/"
+url = "https://youtu.be/dQw4w9WgXcQ?si=-8SBNxsEe75QO1VZ"
 
 
